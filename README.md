@@ -1,0 +1,2 @@
+# BigFileDownloader
+一个用来文件下载的下载器，使用NSURLSessionDownloadTask和NSURLSession实现，下载器内部支持断点续传。
